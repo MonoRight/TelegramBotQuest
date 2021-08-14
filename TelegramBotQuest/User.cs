@@ -11,5 +11,6 @@ namespace TelegramBotQuest
         public bool FirstMessage { get; set; } = false;
         public bool SecondMessage { get; set; } = false;
         public bool ThirdMessage { get; set; } = false;
+        public bool FourthMessage { get; set; } = false;
     }
 }
